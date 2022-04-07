@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shivendra-singh-sisodiya/static/css/main.52d59849.chunk.css",
+    "main.js": "/shivendra-singh-sisodiya/static/js/main.ada1de9f.chunk.js",
+    "main.js.map": "/shivendra-singh-sisodiya/static/js/main.ada1de9f.chunk.js.map",
+    "runtime-main.js": "/shivendra-singh-sisodiya/static/js/runtime-main.3fe460aa.js",
+    "runtime-main.js.map": "/shivendra-singh-sisodiya/static/js/runtime-main.3fe460aa.js.map",
+    "static/js/2.1e2cbc2b.chunk.js": "/shivendra-singh-sisodiya/static/js/2.1e2cbc2b.chunk.js",
+    "static/js/2.1e2cbc2b.chunk.js.map": "/shivendra-singh-sisodiya/static/js/2.1e2cbc2b.chunk.js.map",
+    "static/js/3.e5e9402d.chunk.js": "/shivendra-singh-sisodiya/static/js/3.e5e9402d.chunk.js",
+    "static/js/3.e5e9402d.chunk.js.map": "/shivendra-singh-sisodiya/static/js/3.e5e9402d.chunk.js.map",
+    "index.html": "/shivendra-singh-sisodiya/index.html",
+    "static/css/main.52d59849.chunk.css.map": "/shivendra-singh-sisodiya/static/css/main.52d59849.chunk.css.map",
+    "static/js/2.1e2cbc2b.chunk.js.LICENSE.txt": "/shivendra-singh-sisodiya/static/js/2.1e2cbc2b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3fe460aa.js",
+    "static/js/2.1e2cbc2b.chunk.js",
+    "static/css/main.52d59849.chunk.css",
+    "static/js/main.ada1de9f.chunk.js"
+  ]
+}
