@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shivendrass/static/css/main.901ba4b4.chunk.css",
+    "main.js": "/shivendrass/static/js/main.a8cee771.chunk.js",
+    "main.js.map": "/shivendrass/static/js/main.a8cee771.chunk.js.map",
+    "runtime-main.js": "/shivendrass/static/js/runtime-main.87ac3d9c.js",
+    "runtime-main.js.map": "/shivendrass/static/js/runtime-main.87ac3d9c.js.map",
+    "static/js/2.6380781d.chunk.js": "/shivendrass/static/js/2.6380781d.chunk.js",
+    "static/js/2.6380781d.chunk.js.map": "/shivendrass/static/js/2.6380781d.chunk.js.map",
+    "static/js/3.b964c12b.chunk.js": "/shivendrass/static/js/3.b964c12b.chunk.js",
+    "static/js/3.b964c12b.chunk.js.map": "/shivendrass/static/js/3.b964c12b.chunk.js.map",
+    "index.html": "/shivendrass/index.html",
+    "static/css/main.901ba4b4.chunk.css.map": "/shivendrass/static/css/main.901ba4b4.chunk.css.map",
+    "static/js/2.6380781d.chunk.js.LICENSE.txt": "/shivendrass/static/js/2.6380781d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87ac3d9c.js",
+    "static/js/2.6380781d.chunk.js",
+    "static/css/main.901ba4b4.chunk.css",
+    "static/js/main.a8cee771.chunk.js"
+  ]
+}
